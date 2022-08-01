@@ -1,0 +1,77 @@
+@font-face {
+    font-family:'icomoon';src:url("../fonts/icomoon/fonts/icomoon.eot?vxaacn");
+    src:url("../fonts/icomoon/fonts/icomoon.eot?vxaacn#iefix") format("embedded-opentype"), 
+      url("../fonts/icomoon/fonts/icomoon.ttf?vxaacn") format("truetype"), 
+      url("../fonts/icomoon/fonts/icomoon.woff?vxaacn") format("woff"), 
+      url("../fonts/icomoon/fonts/icomoon.svg?vxaacn#icomoon") format("svg");
+      font-weight:normal;font-style:normal;
+  }
+  
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon'!important;
+	/* speak: none; */
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.icon-sand:before {
+  content: "\e961";
+}
+.icon-search:before {
+	content: "\e960";
+}
+.icon-arrow-r:before {
+	content: "\e95e";
+	// color: #888;
+}
+.icon-arrow-l:before {
+	content: "\e95f";
+	// color: #888;
+}
+.icon-phone:before {
+	content: "\e95d";
+}
+.icon-161:before {
+	content: "\e942";
+}
+
+.icon-171:before {
+	content: "\e955";
+}
+
+.icon-2:before {
+	content: "\e901";
+}
+
+.icon-1:before {
+	content: "\e929";
+}
+
+.icon-8:before {
+	content: "\e90a";
+}
+
+.icon-3:before {
+	content: "\e908";
+}
+
+.icon-4:before {
+	content: "\e909";
+}
+
+.icon-17:before {
+	content: "\e911";
+}
+
+.icon-28:before {
+	content: "\e957";
+}
+.icon-down:before {
+  content: "\e95c";
+}
+.icon-plus:before {
+  content: "\e924";
+}
