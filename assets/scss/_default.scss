@@ -886,10 +886,11 @@ select option {
     // margin-left: 20px;
     margin-right: 0;
     float: left;
-    &:not(:first-child),
+    // &:not(:first-child),
     &:not(.item1) {
       border-left: 1px solid #E0E0E0;
     }
+    &:first-child {border-left: 0;}
     &:hover {
       // a:after {height: 2px;}
       a {

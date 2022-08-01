@@ -924,8 +924,12 @@ select option {
   float: left;
 }
 
-.menu-top-header > li:not(:first-child), .menu-top-header > li:not(.item1) {
+.menu-top-header > li:not(.item1) {
   border-left: 1px solid #E0E0E0;
+}
+
+.menu-top-header > li:first-child {
+  border-left: 0;
 }
 
 .menu-top-header > li:hover a {
